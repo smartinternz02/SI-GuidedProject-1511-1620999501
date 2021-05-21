@@ -4,7 +4,7 @@ IoT Assignment - 01
 
 2.Smart Helmet: - ICEdot Crash Sensor, a new innovation called the ICEdot Crash Sensor pairs your bicycle helmet with your smartphone.
 
-3.Smart Sensor Racquet:- to analyze a player’s game over time.
+3.Smart Sensor Racquet:- to analyze a playerâ€™s game over time.
 
 4.Tzoa: Wearable Air Quality Sensor,which  let users get instant feedback on their environment, contribute to citizen science, and look good doing it.
 
