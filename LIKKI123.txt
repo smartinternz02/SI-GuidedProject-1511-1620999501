@@ -1,0 +1,40 @@
+IoT Assignment - 01
+
+1.Wellness Elderly Monitoring :-  BeClose uses a range of sensors placed throughout the home to wirelessly and discreetly track a persons routines.
+
+2.Smart Helmet: - ICEdot Crash Sensor, a new innovation called the ICEdot Crash Sensor pairs your bicycle helmet with your smartphone.
+
+3.Smart Sensor Racquet:- to analyze a player’s game over time.
+
+4.Tzoa: Wearable Air Quality Sensor,which  let users get instant feedback on their environment, contribute to citizen science, and look good doing it.
+
+5.Smart Planter: Monitors the nutrient and soil moisture levels in the pot and creates
+alerts to water the plant and provide manure.
+
+6.Anti-theft door lock system with fingerprint or facial recognition.
+
+7.Home Wifi Temp and Humidity.
+
+8. Automatic Water overflow detector.
+
+9. Automatic Street Lightning.
+
+10. Smart Supply-chain Management:- Supply-chains have stuck around in the market for a while now. A common example can be Solutions for tracking goods while they are on the road.
+
+11.Swarm-bots for Smart Surveillance:-  Surveillance using a large number of small drones in tourist centred places for easier monitoring and identification of burglars.
+
+12.Smart Grids:- it is a holistic solution that applies an extensive range of Information Technology resources that enable existing and new gridlines to reduce electricity waste and cost.
+13.Drones.
+14.Augmented reality/Virtual reality.
+15.Machine-to-Machine (M2M) Connected Devices.
+16.Robot controlling system .
+17.Transportation / Mobility.
+
+18. Smart solar harvester - a solar panel that can revolve automatically to face the direction of the sun, Using LDR s and stepper motors.
+
+19. Smart exhaust fan: for laboratories to detect accidents and emissions using CO2 and temperature sensors.
+
+20. Industrial Security and Safety
+
+M.Likhitha parameswari
+18481A04D8
